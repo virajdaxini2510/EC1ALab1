@@ -1,0 +1,8 @@
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\bin\Debug\DemoConsoleLib5EC1A.exe.config
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\bin\Debug\DemoConsoleLib5EC1A.exe
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\bin\Debug\DemoConsoleLib5EC1A.pdb
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\obj\Debug\DemoConsoleLib5EC1A.csproj.AssemblyReference.cache
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\obj\Debug\DemoConsoleLib5EC1A.csproj.CoreCompileInputs.cache
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\obj\Debug\DemoConsoleLib5EC1A.exe
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\obj\Debug\DemoConsoleLib5EC1A.pdb
+E:\BE SEM 5 - 2026-2027\5EC1\A\DemoConsoleLib5EC1A\obj\Debug\DemoConsoleLib5EC1A.exe.config
